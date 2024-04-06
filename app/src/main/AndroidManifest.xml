@@ -12,6 +12,9 @@
         android:theme="@style/Theme.Tugas3_yanmarr"
         tools:targetApi="31">
         <activity
+            android:name=".detailkuliner"
+            android:exported="false" />
+        <activity
             android:name=".home"
             android:exported="false" />
         <activity
